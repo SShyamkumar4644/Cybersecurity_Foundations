@@ -1,0 +1,36 @@
+Analyzing cyber threats and controls
+
+The Cybersecurity Risk Management Program starts with sourcing threat intelligence. 
+Let's have a look at some of the sources of threat intelligence. A useful catalog of
+threats can be found at Appendix E to the NIST Special Publication SP 800-30. 
+This catalog provides representative examples of threat events expressed as 
+Tactics, Techniques, and Procedures or TTPs. Another very useful source of TTPs 
+is the MITRE ATT&CK site, which is used in MITRE's cybersecurity resiliency 
+framework. Veris provides an open community threat database, which can be used 
+to support risk analysis. ThreatStream offers an open source cyber intelligence 
+blog, which reports on contemporary activities and threat actors. There are a 
+number of good sources of specific threat reports which provide detailed 
+information on threat actors, threat techniques, and target vulnerabilities. 
+Here we see a report from BAE Systems Applied Intelligence on a vulnerable 
+application called Mackeeper that can be exploited to attack macOS systems. 
+There are four possible treatments once an assessment has identified the risk. 
+Risk acceptance where the risk is within the business's appetite. Risk avoidance 
+where it's better to stop doing that line of business than take the risk. Risk 
+transfer where a third party takes the risk, such as insurance to cover risk, 
+should it eventuate. And risk mitigation where controls are implemented to reduce 
+risk. Risk mitigation and the protection of business outcomes which they provide, 
+means implementing controls in the form of cybersecurity policies, procedures, 
+and technical solutions. There are four key types of control that can be applied, 
+and it's generally recommended that two or more are used together to achieve 
+defense in-depth. The first is deterrent controls. These reduce the threat. 
+An example of this is incarceration, which deters would be criminals from 
+carrying out their attacks. Preventative controls are designed to stop the 
+attack from succeeding by not allowing it to get at an asset to exploit a 
+vulnerability. A firewall is one such preventative control, blocking protocols 
+that might be used as attack vectors. Detective controls are used to detect that 
+an attack has taken place. A burglar alarm is a typical detective control. 
+Finally, corrective controls are used to reduce the impact of an incident. 
+A good example of this being recovery from data backups. The NIST Cybersecurity 
+Framework presents corrective controls as the respond and recover functional 
+controls.
+
