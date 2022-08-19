@@ -1,0 +1,17 @@
+Understanding the NIST Cybersecurity Framework
+
+The inclusion of cyberspace into national critical infrastructures was formally recognized by all nations at the Third Global Conference on Cyberspace, 
+held in Seoul in 2013. With the publication of the Seoul framework for a commitment to open and secure cyberspace, it states: The global and open nature of 
+the Internet is a driving force in accelerating progress towards development. Governments, business, organizations and individual owners and users of 
+cyberspace must assume responsibility for, and take steps to enhance, the security of their information technologies." In response to this, in 2014, the 
+U.S. National Institute of Standards and Technology issued the framework for improving critical infrastructure cybersecurity. The NIST cybersecurity 
+framework has now become the de facto standard for cybersecurity. Let's take a look at it. The NIST Cybersecurity Framework is an action-oriented approach 
+to security and consists of three elements. The Framework Core, the Framework Profile, and the Framework Implementation Tiers. The Framework Core provides 
+a set of activities to achieve cybersecurity, described in the five areas of Identify, Protect, Detect, Respond, and Recover. Each of these activities is 
+decomposed into a total of 23 Categories of security activities. For example, we can see that the Detect group decomposes into the three Categories of 
+Anomalies and Events, Security Continuous Monitoring and Detention Processes. Each category is further decomposed into a set of controls. For example, 
+the Detection Processes Category is broken down into five sub-categories, Roles and responsibilities, Compliant with requirements, Activities are tested, 
+Detection Information is communicated, and Continuous improvement. The NIST cybersecurity framework doesn't introduce its own set of controls, it provides 
+a higher-level framework which can be used to develop a contemporary cybersecurity profile for an organization, but it relies on existing control 
+frameworks for its implementation, COBIT, ISA, otherwise known as IEC 62443, ISO 27001 and NIST SP 800-53.
+

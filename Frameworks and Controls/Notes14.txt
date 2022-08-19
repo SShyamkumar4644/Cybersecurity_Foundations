@@ -1,0 +1,44 @@
+Understanding the basics of cyber risk
+
+Risk is an essential part of doing business, whether it's taking a risk on a 
+merger or acquisition, taking a risk that purchasing new equipment will be a 
+cost effective investment, or whether there's sufficient plant protection to 
+avoid injuries to workers. Management needs to understand their level of risk
+exposure and make sure that it's within their risk appetite. Cybersecurity is, 
+at its heart, the management of risk related to internet connected businesses. 
+This includes the threats of hackers and malicious software entering from the 
+internet, the vulnerabilities of internet facing IT systems, and the attack 
+countermeasures or controls, all of which affect how successful the business 
+will be in meeting its desired outcomes. A standard approach to managing risk 
+has been developed by the National Institute of Standards in Technology, 
+and its application is described in Special Publication 800-30, Guide 
+for Conducting Risk Assessments. The International Standards Organization 
+also provides guidance with its ISO 27005 Information Security Risk Management 
+publication. While there are minor terminology differences, the intent of both 
+documents is the same. Risk starts with a threat event, which must be analyzed 
+to determine the likelihood that the event will occur. This is done by considering 
+the likely threat actors, their capabilities, and their resources. The intent or 
+motivation needs to be considered. What is it that drives this threat actor to 
+want to mount an attack? An attacker will only attack if the results outweigh 
+the costs of attacking, and that depends on the value of the target to the 
+threat actor. This could be financial gain, obtaining intelligence, disrupting 
+services, or just peer recognition. The next thing to think about is the set of 
+vulnerabilities in the information and processing assets: the databases, 
+work stations, servers, and networks which this event can exploit to cause 
+damage. For instance, a data center in the basement of a building may be 
+vulnerable to a flood event. A website may have a software vulnerability which 
+can be exploited. A server without an uninterruptable power supply would be 
+vulnerable to a power outage. However, not all vulnerabilities are equal. A 
+flood may be catastrophic, with the whole data center out of action for weeks, 
+whereas an attack which exploits a website flaw may just be a nuisance. The next 
+thing to consider is the impact to the business of an event. This is typically 
+done by carrying out a business impact assessment to determine what systems will 
+be affected, how this flows on to business processes, and the cost of service 
+degradation or failure to meet critical levels of performance. Being able to 
+describe a security event as a business impact is a powerful way of gaining 
+the attention and the respect of the business, and being able to get a well 
+balanced business decision on what to do about the threat. Controls may have 
+put in place to protect the assets, and their effectiveness needs to be considered 
+for each of the feasible threat scenarios. This will then allow calculation of the 
+overall risk.
+

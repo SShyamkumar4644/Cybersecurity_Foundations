@@ -1,0 +1,33 @@
+Adopting the NIST Cybersecurity Framework
+
+The second component of the NIST cybersecurity framework is the framework profile. 
+This is used to align business outcomes and cybersecurity activities. Providing a 
+view of risks and a development plan to breach the two. The third and final 
+component of the NIST cybersecurity framework is a maturity model for cybersecurity 
+known as the implementation tiers. The basic level of cybersecurity and maturity 
+is the partial implementation tier. This is characterized by it's prize risk 
+management being somewhat adhocan reactive where cybersecurity activities aren't 
+based on risk objectives or business outcomes. And where there's little external 
+collaboration. The next level of maturity risk management practices are formalized 
+but may not be adapted across the enterprise. There's informal sharing of 
+cybersecurity information internally but not externally. The third tier of 
+maturity, repeatable, is where risk management is formalized and mandated as 
+policy. And processes exist to respond to changes in risk. Collaboration and 
+information sharing exists both internally and externally. The highest maturity 
+level, adaptive, extends the third level with the awareness and agility to apply 
+continuous changes to cybersecurity activities. As a result of changes to assets, 
+threat, and vulnerabilities. When adopting the cybersecurity framework for an 
+organization NIST recommends establishing two profiles. The first should represent 
+the current state of cybersecurity as assessed against the subset of 
+enterprise-specific activities that have been selected as being required. 
+This is what cybersecurity looks like now. The second should be the target 
+state of cyber security. Set as the acceptable level of risk against each of 
+the enterprise-specific activities. A security plan of prioritized projects can 
+then be defined to close the gap between the current and target state framework 
+profiles. For an organization that's starting up its cybersecurity program, there 
+are some key actions required to take advantage of the cyber security framework. 
+The first is to identify the key business outcomes, then understand the threats and 
+vulnerabilities to those outcomes, create a profile, conduct a risk assessment, 
+decide on the target profile, determine, analyze and prioritize the gaps to create 
+the action plan, and establish and execute a program to implement the plan.
+

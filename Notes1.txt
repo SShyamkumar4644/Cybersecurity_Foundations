@@ -1,0 +1,7 @@
+We're all familiar with the basics of protecting ourselves against viruses and other forms of malware. However, this is just one part of the landscape of 
+cybersecurity standards and frameworks, which together provide a structured approach to managing cyber risk. Understanding these frameworks provides a good 
+foundation for anyone with an interest in, or wishing to build a career in, cybersecurity. You don't need to be a cybersecurity professional to take this LinkedIn 
+learning course, but it would help to be familiar with the concept of technology risk and control. ISACA's Control Objectives for IT provide the best-practice model 
+of IT processes and will help provide the context for the threats to, and protection of, IT systems. NIST Cybersecurity Framework provides the most recognized approach 
+to cybersecurity in an internet-enabled world. And some pre-reading would be helpful in taking this course.
+

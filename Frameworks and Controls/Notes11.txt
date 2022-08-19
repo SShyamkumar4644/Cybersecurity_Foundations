@@ -1,0 +1,36 @@
+The Orange Book: Early concepts in computer security:
+
+Green book for passowrds and Red book for networks
+
+The era of trusted computing started in the 1980s with the publication of a series of books on the IT security requirements 
+for the United States Department of Defense. These books were known as the "Rainbow Series" of books. The best known book in the 
+"Rainbow Series" is the "Orange Book" which describes the security design of a computer that can be trusted to handle both unclassified 
+and classified information, known as a multilevel secure or trusted computer. The "Orange Book" provided the paradigm for information 
+security for the next decade. And the approach is still relevant today and can be seen in recent U.S. thinking on tailored trustworthy 
+spaces. The "Orange Book" provides the technical criteria which are needed for the security design and subsequent security evaluation 
+of the hardware, firmware, and application software of the computer. It introduces four key concepts in information security. A reference 
+monitor which mediates access to system resources. A formal security model for reading and writing information. The idea of a trusted 
+computing base as a subsystem containing all the security code. And the testing required to achieve various levels of assurance. The 
+reference monitor concept is an essential element of any system that provides multilevel secure computing facilities and controls. The 
+reference monitor enforces access controls between subjects and objects of the system. The subject may be a user or a program module, 
+and the object may be a data file or a restricted system function. I'll use the more common term user, rather than subject. The 
+reference monitor has three essential characteristics. The reference validation mechanism must be tamper proof. The reference 
+validation mechanism must always be invoked. And the reference validation mechanism must be small enough to be completely analyzed 
+and tested. The "Orange Book" introduces the Bell-LaPadula scheme for managing multilevel information flows. Using this scheme the 
+book presents two approaches to security. Discretionary access control is used for applying security within the same classification 
+of information to provide a means of restricting information access on a need-to-know basis. It requires an access control list to 
+be maintained by an administrator which indicates what objects each user can have access to. This is the normal folder and file 
+control scheme we use today. Mandatory access control is the Bell-LaPadula scheme in which each user holds a certain level of 
+access rights or clearance and an object is labeled at a certain level of sensitivity. The security labels which define levels of 
+sensitivity in the "Orange Book" include restricted, confidential, secret, and top secret. Mandatory access control has two rules. 
+The first rule is the simple security rule which states that a user at a certain clearance level can't read anything which has a 
+label at a higher sensitivity level which by definition they do not have access to. The second rule is the star security rule which 
+states that a user at a certain clearance level cannot write down to a file which is labeled at a lower level as this may expose sensitive 
+information to users not cleared to access it. The heart of a trusted computer system is its trusted computing base which contains all of 
+the elements of the system responsible for supporting the security policy and supporting the isolation of objects on which the protection 
+is based. The bounds of the TCB are known as the security perimeter. The TCB includes hardware, firmware, and software critical to protection. 
+It must be designed and implemented such that nothing outside the trusted computing base is sensitive or relevant to managing security. A TCB 
+should be as simple as possible consistent with the functions it has to perform in order to enable adequate testing. The final and probably 
+most important part of the "Orange Book" is the classification scheme it introduces for evaluating assurance of systems. In short the scheme 
+provides for four levels of assurance. Within each level there are one or more tiers. The levels are D1 Minimal Protection, C1 to C2 
+Discretionary Protection, B1 to B3 Mandatory Protection, and A1 Verified Protection.
